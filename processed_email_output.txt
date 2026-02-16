@@ -1,0 +1,125 @@
+
+SUBJECT: Re: Progress Update
+FROM: Adnan Labib <Adnan@genairate.io>
+TO: Aditya Pradeep Phadke <PhadkeA@cardiff.ac.uk>
+
+BODY:
+Hi Aditya,
+
+These are 4 examples of the data you would be dealing with. These are the .eml files. And you would need send these to an LLM to extract the following information:
+1. Property Damage
+2. Business Interruption
+3. Total Insured Value
+4. Deductibles
+5. Sublimits
+6. Address of Location or Locations
+7. Claims if there is any
+
+To start with you can extract these and see how it goes. I will send over the API keys towards the end of the week.
+________________________________
+From: Aditya Pradeep Phadke <PhadkeA@cardiff.ac.uk>
+Sent: Monday, February 9, 2026 10:05 AM
+To: Adnan Labib <Adnan@genairate.io>
+Subject: Re: Progress Update
+
+
+Sounds good. See you then.
+
+Sent from Outlook for Android<https://aka.ms/AAb9ysg>
+________________________________
+From: Adnan Labib <Adnan@genairate.io>
+Sent: Monday, February 9, 2026 10:04:37 AM
+To: Aditya Pradeep Phadke <PhadkeA@cardiff.ac.uk>
+Subject: Re: Progress Update
+
+How about 11:30AM? You can join the same meeting link.
+________________________________
+From: Aditya Pradeep Phadke <PhadkeA@cardiff.ac.uk>
+Sent: Monday, February 9, 2026 9:32 AM
+To: Adnan Labib <Adnan@genairate.io>
+Subject: Re: Progress Update
+
+
+Hello Adnan Labib,
+
+I hope you are doing well.
+
+Apologies for the late notice. I have a meeting scheduled from 11:00 to 11:20 with Yogesh Joshee that overlaps with our meeting.
+
+May I kindly request if our meeting could be rescheduled to a later time at your convenience? I sincerely apologise for any inconvenience caused and appreciate your understanding.
+
+Thank you very much for your time and consideration.
+
+Thanks & Regards
+Aditya Phadke
+
+
+Sent from Outlook for Android<https://aka.ms/AAb9ysg>
+________________________________
+From: Adnan Labib <Adnan@genairate.io>
+Sent: Monday, January 26, 2026 11:39:56 AM
+To: Aditya Pradeep Phadke <phadkea@cardiff.ac.uk>
+Subject: Progress Update
+When: Occurs every Monday from 11:00 to 11:30 effective 02/02/2026 until 27/07/2026.
+Where: Microsoft Teams Meeting
+
+External email to Cardiff University - Take care when replying/opening attachments or links.
+Nid ebost mewnol o Brifysgol Caerdydd yw hwn - Cymerwch ofal wrth ateb/agor atodiadau neu ddolenni.
+
+
+
+________________________________________________________________________________
+Microsoft Teams meeting
+Join: https://teams.microsoft.com/meet/33131915859588?p=8auURdSAFGM4MHFnuJ
+Meeting ID: 331 319 158 595 88
+Passcode: jJ2tM26k
+________________________________
+Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzgwMTc5ODItMTNlZS00MTc0LTg5MDctMmJkNzMzODdhZGIx%40thread.v2/0?context=%7b%22Tid%22%3a%2273c1e873-545a-4bcf-87dc-db8dc77009bf%22%2c%22Oid%22%3a%22ea85793c-8398-43f8-8a22-bff3079c23c7%22%7d>
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=ea85793c-8398-43f8-8a22-bff3079c23c7&tenantId=73c1e873-545a-4bcf-87dc-db8dc77009bf&threadId=19_meeting_MzgwMTc5ODItMTNlZS00MTc0LTg5MDctMmJkNzMzODdhZGIx@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+GenAirate Technologies Ltd
+Registered in England and Wales | Company Number: 13926837
+17 St Helens Place, London, EC3A 6DG
+Website: www.genairate.io<https://www.genairate.io/>
+
+________________________________
+
+Confidentiality Notice:
+This email and any attachments are confidential and intended solely for the named recipient(s). If you have received this message in error, please notify the sender immediately, delete it from your system, and do not copy, distribute or take any action based on its contents.
+
+Disclaimer:
+Any views or opinions expressed are solely those of the author and do not necessarily represent those of GenAirate Technologies Ltd. While we take reasonable precautions to ensure our emails are virus-free, we accept no responsibility for any loss or damage caused by viruses transmitted via email. Recipients are advised to carry out their own checks.
+
+Legal Notice:
+Information contained in this email may be subject to copyright or other legal protection. It may not be reproduced or distributed without prior written consent from GenAirate Technologies Ltd.
+GenAirate Technologies Ltd
+Registered in England and Wales | Company Number: 13926837
+17 St Helens Place, London, EC3A 6DG
+Website: www.genairate.io<https://www.genairate.io/>
+
+________________________________
+
+Confidentiality Notice:
+This email and any attachments are confidential and intended solely for the named recipient(s). If you have received this message in error, please notify the sender immediately, delete it from your system, and do not copy, distribute or take any action based on its contents.
+
+Disclaimer:
+Any views or opinions expressed are solely those of the author and do not necessarily represent those of GenAirate Technologies Ltd. While we take reasonable precautions to ensure our emails are virus-free, we accept no responsibility for any loss or damage caused by viruses transmitted via email. Recipients are advised to carry out their own checks.
+
+Legal Notice:
+Information contained in this email may be subject to copyright or other legal protection. It may not be reproduced or distributed without prior written consent from GenAirate Technologies Ltd.
+GenAirate Technologies Ltd
+Registered in England and Wales | Company Number: 13926837
+17 St Helens Place, London, EC3A 6DG
+Website: www.genairate.io<https://www.genairate.io/>
+
+________________________________
+
+Confidentiality Notice:
+This email and any attachments are confidential and intended solely for the named recipient(s). If you have received this message in error, please notify the sender immediately, delete it from your system, and do not copy, distribute or take any action based on its contents.
+
+Disclaimer:
+Any views or opinions expressed are solely those of the author and do not necessarily represent those of GenAirate Technologies Ltd. While we take reasonable precautions to ensure our emails are virus-free, we accept no responsibility for any loss or damage caused by viruses transmitted via email. Recipients are advised to carry out their own checks.
+
+Legal Notice:
+Information contained in this email may be subject to copyright or other legal protection. It may not be reproduced or distributed without prior written consent from GenAirate Technologies Ltd.
+
